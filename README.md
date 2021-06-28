@@ -1,4 +1,6 @@
 ---
+[![Node.js CI](https://github.com/mashakir/nodejs-docs-hello-world/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/mashakir/nodejs-docs-hello-world/actions/workflows/node.js.yml)
+
 page_type: sample
 languages:
 - nodejs
